@@ -17,7 +17,7 @@ import javax.swing.SwingUtilities;
 import javax.swing.Timer;
 import javax.swing.table.AbstractTableModel;
 
-import org.omg.PortableInterceptor.SUCCESSFUL;
+//import org.omg.PortableInterceptor.SUCCESSFUL;
 
 public class SmoothScrollTest {
 
